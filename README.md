@@ -41,11 +41,11 @@ These insights can guide preventive maintenance and resource allocation.
 
  # 🛠Tools & Tech
 
--Tableau Public (Data visualization)
+- Tableau Public (Data visualization)
 
--JSON Parsing (Data ingestion & unification)
+- JSON Parsing (Data ingestion & unification)
 
--GitHub (Project hosting & sharing)
+- GitHub (Project hosting & sharing)
 
 
 
