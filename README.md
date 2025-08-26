@@ -31,7 +31,7 @@ Shows downtime by machine type in the **most affected factory**.
 <img width="1920" height="1080" alt="Screenshot (342)" src="https://github.com/user-attachments/assets/2ec20569-3755-420b-a33c-3aada8383edb" />
 
 
-#🔍 Insights
+# 🔍 Insights
 
 **Factory with most breakdowns**: Osaka (Daikibo Seiko)
 
@@ -39,7 +39,7 @@ Shows downtime by machine type in the **most affected factory**.
 
 These insights can guide preventive maintenance and resource allocation.
 
- #🛠Tools & Tech
+ # 🛠Tools & Tech
 
 -Tableau Public (Data visualization)
 
