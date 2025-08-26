@@ -31,4 +31,21 @@ Shows downtime by machine type in the **most affected factory**.
 <img width="1920" height="1080" alt="Screenshot (342)" src="https://github.com/user-attachments/assets/2ec20569-3755-420b-a33c-3aada8383edb" />
 
 
+#🔍 Insights
+
+**Factory with most breakdowns**: Osaka (Daikibo Seiko)
+
+**Most problematic device**: Laser Welder
+
+These insights can guide preventive maintenance and resource allocation.
+
+ #🛠Tools & Tech
+
+-Tableau Public (Data visualization)
+
+-JSON Parsing (Data ingestion & unification)
+
+-GitHub (Project hosting & sharing)
+
+
 
